@@ -1,0 +1,13 @@
+Recursion
+
+1. Recursion is when a function calls itself. This can create a more efficient process when running functions. Instead of writing a list so that it looks at the first element and then the second element, we write a recursive function so that it pops off the first item, and then looks at the new first item. Then it keeps doing that until it runs out of elements.
+
+2. Base cases are important so that we know when we're done.
+
+Graphs
+
+1. Graphs are like trees, except they can contain loops (“cycles”), and can be non-directed. They consist of nodes, which may or may not be connected with one another. Graphs are often used to model relationships between things. 
+
+2. Every tree is a graph, but every graph could be a tree. 
+
+3. A good example would be a friend graph. Some people are friends with one another, but not with others.  
